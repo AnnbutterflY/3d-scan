@@ -10,7 +10,7 @@ I chose ContextCapture, a software suite I first used in my freshman year, which
 ## 制作过程 Process
 **第一步：** 将我要制作模型的物体摆放在一个可供360°观察的光线良好的地方，然后对它进行环绕拍摄，可以是照片或者视频。我更习惯使用静态的照片，我对我这次做的“吉伊”模型拍了68张照片。（注意：拍摄时不能移动物体！摄像头围绕物体拍）
 <p align="center">
-< img src="illustrating picture/chii原照片.png" alt="loading" width="500"/>
+<img src="illustrating picture/chii原照片.png" alt="loading" width="500"/>
 </p >
 
 **第二步：** 将照片导入文件夹，在Master中新建Capture，上传照片，点击提交空中三角测量计算，使用本地引擎处理（注意：这时候需要打开Engine）。
